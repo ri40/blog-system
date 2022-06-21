@@ -1,0 +1,16 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #ccc;
+    background:linear-gradient(pink,#000);
+}
+.container{
+    height: 100vh;
+}
+
+#list-item{
+    height: 100%;
+    overflow: scroll;
+}
